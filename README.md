@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with [Create React App](https://github.com/facebook/create-react-app).
+
+##About the project
+
+It is a single page netflix clone which uses react, react-icons, react-router(for navitaging through pages) and axios to fetch data from api.
 
 ## Available Scripts
 
